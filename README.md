@@ -9,7 +9,7 @@
 ### Program: Advance AI
 
 ## Tech Stack
-- Javascript
+- JavaScript
   
 Create your own voice assistant using OpenAI's advanced language processing technology and IBM Watson Embeddable AI. 
 Your assistant will be able to understand and respond to your questions and requests in real time, using voice utilizing text-to-speech and speech-to-text capabilities. 
